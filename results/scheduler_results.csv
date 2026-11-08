@@ -1,0 +1,6 @@
+task_id,priority,arrival_time,deadline,start_time,completion_time,deadline_met
+A,3,0,4,0,1,True
+B,5,1,3,1,2,True
+E,5,1,4,2,3,True
+D,4,3,5,3,4,True
+C,2,2,6,4,5,True
